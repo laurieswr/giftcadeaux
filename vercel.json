@@ -35,9 +35,9 @@
   ],
   "redirects": [
     {
-      "source": "/old-page",
-      "destination": "/new-page",
-      "permanent": true
+      "source": "/old-path",
+      "destination": "/new-path",
+      "permanent": false
     }
   ]
 }
