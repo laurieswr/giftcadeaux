@@ -37,7 +37,7 @@
     {
       "source": "/old-path",
       "destination": "/new-path",
-      "permanent": false
+      "permanent": true
     }
   ]
 }
