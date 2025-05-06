@@ -1,0 +1,391 @@
+[
+  {
+    "id": 1,
+    "name": "Bûche de Noël au chocolat",
+    "ingredients": [
+      "4 œufs",
+      "120g de sucre",
+      "100g de farine",
+      "30g de cacao en poudre",
+      "200g de chocolat noir",
+      "20cl de crème liquide",
+      "50g de beurre",
+      "Sucre glace pour la décoration"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C (thermostat 6).",
+      "Séparez les blancs des jaunes d'œufs.",
+      "Fouettez les jaunes avec le sucre jusqu'à ce que le mélange blanchisse.",
+      "Ajoutez la farine et le cacao, mélangez.",
+      "Montez les blancs en neige et incorporez-les délicatement.",
+      "Versez la pâte sur une plaque recouverte de papier cuisson et enfournez 10 minutes.",
+      "Préparez la ganache en faisant fondre le chocolat avec la crème liquide et le beurre.",
+      "Roulez le gâteau avec la ganache, saupoudrez de sucre glace."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pain d'épices traditionnel",
+    "ingredients": [
+      "250g de farine",
+      "100g de miel",
+      "100g de sucre",
+      "10cl de lait",
+      "1 œuf",
+      "50g de beurre",
+      "1 cuillère à café de bicarbonate de soude",
+      "1 cuillère à café de cannelle",
+      "1 cuillère à café de gingembre",
+      "1 pincée de clou de girofle"
+    ],
+    "steps": [
+      "Préchauffez le four à 150°C (thermostat 5).",
+      "Faites chauffer le miel et le sucre dans une casserole.",
+      "Ajoutez le lait et le beurre, mélangez jusqu'à ce que le beurre soit fondu.",
+      "Dans un bol, mélangez la farine, le bicarbonate et les épices.",
+      "Versez le mélange liquide sur la farine, ajoutez l'œuf et mélangez bien.",
+      "Versez la pâte dans un moule à cake et enfournez 45 minutes."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sablés de Noël au beurre",
+    "ingredients": [
+      "250g de farine",
+      "125g de sucre",
+      "125g de beurre mou",
+      "1 œuf",
+      "1 cuillère à café d'extrait de vanille",
+      "1 pincée de sel"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C (thermostat 6).",
+      "Mélangez le beurre avec le sucre jusqu'à consistance crémeuse.",
+      "Ajoutez l'œuf et l'extrait de vanille.",
+      "Incorporez la farine et le sel, formez une pâte homogène.",
+      "Étalez la pâte, découpez des formes avec des emporte-pièces.",
+      "Disposez sur une plaque et enfournez 10-12 minutes."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Truffes au chocolat",
+    "ingredients": [
+      "200g de chocolat noir",
+      "10cl de crème liquide",
+      "30g de beurre",
+      "Cacao en poudre pour enrober"
+    ],
+    "steps": [
+      "Chauffez la crème liquide dans une casserole.",
+      "Versez sur le chocolat cassé en morceaux, laissez fondre.",
+      "Ajoutez le beurre et mélangez.",
+      "Réfrigérez 2 heures.",
+      "Formez des boules, roulez-les dans le cacao en poudre."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mince pies",
+    "ingredients": [
+      "250g de farine",
+      "125g de beurre",
+      "50g de sucre",
+      "1 œuf",
+      "300g de farce pour mince pies (fruits secs, écorces d'orange, épices)",
+      "Sucre glace pour la décoration"
+    ],
+    "steps": [
+      "Préchauffez le four à 200°C (thermostat 7).",
+      "Mélangez la farine et le beurre jusqu'à texture sableuse.",
+      "Ajoutez le sucre et l'œuf, mélangez bien.",
+      "Étalez la pâte et garnissez des moules à tartelettes.",
+      "Remplissez de farce, couvrez de pâte et faites une entaille.",
+      "Enfournez 20 minutes, saupoudrez de sucre glace."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Gâteau au chocolat fondant",
+    "ingredients": [
+      "200g de chocolat noir",
+      "150g de beurre",
+      "150g de sucre",
+      "3 œufs",
+      "50g de farine"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C (thermostat 6).",
+      "Faites fondre le chocolat avec le beurre.",
+      "Ajoutez le sucre, mélangez bien.",
+      "Ajoutez les œufs un par un, puis la farine.",
+      "Versez dans un moule beurré et enfournez 20 minutes."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Pavlova de Noël",
+    "ingredients": [
+      "4 blancs d'œufs",
+      "200g de sucre",
+      "1 cuillère à café de vinaigre blanc",
+      "1 cuillère à soupe de fécule de maïs",
+      "Crème chantilly",
+      "Fruits rouges pour la décoration"
+    ],
+    "steps": [
+      "Préchauffez le four à 120°C (thermostat 4).",
+      "Montez les blancs en neige, ajoutez le sucre en plusieurs fois.",
+      "Incorporez le vinaigre et la fécule de maïs.",
+      "Formez un cercle de meringue sur une plaque et enfournez 1h30.",
+      "Laissez refroidir, garnissez de crème chantilly et de fruits rouges."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Cookies aux épices de Noël",
+    "ingredients": [
+      "250g de farine",
+      "150g de sucre roux",
+      "125g de beurre",
+      "1 œuf",
+      "1 cuillère à café de cannelle",
+      "1 cuillère à café de gingembre en poudre",
+      "1/2 cuillère à café de muscade"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C (thermostat 6).",
+      "Mélangez le beurre et le sucre.",
+      "Ajoutez l'œuf, la farine et les épices.",
+      "Formez des boules de pâte, disposez sur une plaque.",
+      "Enfournez 10-12 minutes."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Crème brûlée à la vanille",
+    "ingredients": [
+      "50cl de crème liquide",
+      "5 jaunes d'œufs",
+      "100g de sucre",
+      "1 gousse de vanille",
+      "Cassonade pour caraméliser"
+    ],
+    "steps": [
+      "Préchauffez le four à 150°C (thermostat 5).",
+      "Chauffez la crème avec la gousse de vanille fendue.",
+      "Fouettez les jaunes avec le sucre, versez la crème chaude.",
+      "Répartissez dans des ramequins, enfournez 1h.",
+      "Laissez refroidir, saupoudrez de cassonade et caramélisez."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tarte aux pommes et cannelle",
+    "ingredients": [
+      "1 pâte brisée",
+      "4 pommes",
+      "50g de sucre",
+      "1 cuillère à café de cannelle",
+      "20g de beurre"
+    ],
+    "steps": [
+      "Préchauffez le four à 200°C (thermostat 7).",
+      "Étalez la pâte dans un moule, piquez-la avec une fourchette.",
+      "Épluchez et coupez les pommes en tranches.",
+      "Disposez-les sur la pâte, saupoudrez de sucre et de cannelle.",
+      "Parsemez de morceaux de beurre, enfournez 30 minutes."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Mousse au chocolat",
+    "ingredients": [
+      "200g de chocolat noir",
+      "4 œufs",
+      "20g de sucre",
+      "1 pincée de sel"
+    ],
+    "steps": [
+      "Faites fondre le chocolat au bain-marie.",
+      "Séparez les blancs des jaunes d'œufs.",
+      "Montez les blancs en neige avec le sucre et une pincée de sel.",
+      "Incorporez délicatement le chocolat fondu aux jaunes d'œufs.",
+      "Ajoutez les blancs en neige en plusieurs fois.",
+      "Répartissez dans des verrines et laissez reposer 3 heures au réfrigérateur."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Tiramisu de Noël",
+    "ingredients": [
+      "250g de mascarpone",
+      "3 œufs",
+      "100g de sucre",
+      "30cl de café fort",
+      "1 cuillère à soupe de marsala",
+      "250g de biscuits à la cuillère",
+      "Cacao en poudre"
+    ],
+    "steps": [
+      "Séparez les blancs des jaunes d'œufs.",
+      "Fouettez les jaunes avec le sucre, ajoutez le mascarpone.",
+      "Montez les blancs en neige et incorporez-les au mélange.",
+      "Imbibez les biscuits de café et marsala, disposez-les dans un plat.",
+      "Couvrez de la préparation au mascarpone, répétez les couches.",
+      "Laissez reposer 4 heures au réfrigérateur et saupoudrez de cacao."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Charlotte aux fruits rouges",
+    "ingredients": [
+      "400g de fruits rouges",
+      "250g de mascarpone",
+      "30cl de crème liquide",
+      "100g de sucre",
+      "24 biscuits à la cuillère",
+      "2 cuillères à soupe de confiture de framboises"
+    ],
+    "steps": [
+      "Fouettez la crème liquide en chantilly, puis ajoutez le mascarpone et le sucre.",
+      "Trempez les biscuits à la cuillère dans un peu d'eau sucrée.",
+      "Disposez les biscuits dans le fond et les parois d'un moule à charlotte.",
+      "Alternez une couche de crème chantilly et des fruits rouges.",
+      "Finissez avec une couche de crème et des biscuits.",
+      "Réfrigérez pendant 4 heures, puis démoulez et décorez avec les fruits."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Clafoutis aux poires et chocolat",
+    "ingredients": [
+      "4 poires",
+      "150g de chocolat noir",
+      "3 œufs",
+      "100g de sucre",
+      "100g de farine",
+      "30cl de lait"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C (thermostat 6).",
+      "Pelez et coupez les poires en morceaux.",
+      "Faites fondre le chocolat au bain-marie.",
+      "Fouettez les œufs avec le sucre, ajoutez la farine et le lait.",
+      "Versez le mélange dans un moule beurré, ajoutez les poires et le chocolat fondu.",
+      "Enfournez pendant 35-40 minutes."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Crêpes Suzette",
+    "ingredients": [
+      "200g de farine",
+      "2 œufs",
+      "50cl de lait",
+      "50g de beurre",
+      "50g de sucre",
+      "2 oranges",
+      "2 cuillères à soupe de Grand Marnier"
+    ],
+    "steps": [
+      "Préparez la pâte à crêpes en mélangeant la farine, les œufs et le lait.",
+      "Faites cuire les crêpes dans une poêle avec un peu de beurre.",
+      "Dans une autre poêle, faites fondre le sucre jusqu'à caramélisation.",
+      "Ajoutez le beurre, le jus d'orange, puis le Grand Marnier.",
+      "Placez les crêpes dans la sauce, pliez-les et faites chauffer encore quelques minutes."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Soufflé au Grand Marnier",
+    "ingredients": [
+      "50g de beurre",
+      "50g de farine",
+      "30cl de lait",
+      "4 œufs",
+      "50g de sucre",
+      "2 cuillères à soupe de Grand Marnier",
+      "Sucre glace pour la décoration"
+    ],
+    "steps": [
+      "Préchauffez le four à 200°C (thermostat 6-7).",
+      "Faites fondre le beurre, ajoutez la farine et le lait pour faire une béchamel.",
+      "Incorporez les jaunes d'œufs, le Grand Marnier, puis les blancs montés en neige.",
+      "Versez la préparation dans des ramequins beurrés et enfournez 20 minutes.",
+      "Saupoudrez de sucre glace avant de servir."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Panna cotta à la vanille",
+    "ingredients": [
+      "50cl de crème liquide",
+      "80g de sucre",
+      "1 gousse de vanille",
+      "2 feuilles de gélatine",
+      "Fruits rouges pour la décoration"
+    ],
+    "steps": [
+      "Faites chauffer la crème avec le sucre et la gousse de vanille fendue.",
+      "Ajoutez la gélatine ramollie dans de l'eau froide et mélangez.",
+      "Versez dans des verrines et laissez prendre 3 heures au réfrigérateur.",
+      "Décorez de fruits rouges avant de servir."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Tarte au chocolat et caramel salé",
+    "ingredients": [
+      "1 pâte sablée",
+      "200g de chocolat noir",
+      "150g de sucre",
+      "20cl de crème liquide",
+      "1 pincée de sel"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C (thermostat 6).",
+      "Faites cuire la pâte sablée pendant 10-12 minutes.",
+      "Faites un caramel avec le sucre et ajoutez la crème et le sel.",
+      "Faites fondre le chocolat et incorporez-le au caramel.",
+      "Versez la ganache sur la pâte cuite et réfrigérez pendant 2 heures."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Gâteau à l'orange et amandes",
+    "ingredients": [
+      "200g de farine",
+      "100g de sucre",
+      "100g de poudre d'amandes",
+      "3 œufs",
+      "1 orange",
+      "10cl de lait",
+      "50g de beurre"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C (thermostat 6).",
+      "Mélangez la farine, la poudre d'amandes, et le sucre.",
+      "Ajoutez les œufs, le lait, le beurre fondu et le zeste d'orange.",
+      "Versez dans un moule beurré et enfournez pendant 30 minutes."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Bûche glacée au café",
+    "ingredients": [
+      "200g de chocolat blanc",
+      "30cl de crème liquide",
+      "150g de mascarpone",
+      "2 cuillères à soupe de café fort",
+      "1 paquet de biscuits cuillère"
+    ],
+    "steps": [
+      "Faites fondre le chocolat blanc avec la crème.",
+      "Mélangez le mascarpone et le café, puis incorporez le mélange de chocolat.",
+      "Trempez les biscuits cuillère dans le café et tapissez un moule à bûche.",
+      "Alternez des couches de biscuits et de crème.",
+      "Laissez prendre 6 heures au congélateur avant de démouler."
+    ]
+  }
+]

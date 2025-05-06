@@ -1,0 +1,52 @@
+/* Styles pour le header */
+  
+
+  /* Styles pour le titre */
+.title {
+    font-size: 35px;
+    margin: 10px;
+    color: gold;
+    
+}
+  
+.main {
+  height: 110px;
+}
+
+  /* Styles pour la barre de navigation */
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+  
+  /* Styles pour les liens */
+.link {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+  
+  /* Styles pour le message de bienvenue */
+.welcome {
+    margin-right: 10px;
+}
+  
+  /* Styles pour le bouton de déconnexion */
+.button {
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+main{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+@media (min-width: 680px) {
+  .main {
+    height: 200px;
+  }
+}

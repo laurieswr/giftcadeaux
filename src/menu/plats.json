@@ -1,0 +1,424 @@
+[
+  {
+    "id": 1,
+    "name": "Dinde aux marrons",
+    "description": "Dinde rôtie accompagnée de marrons et de purée de pommes de terre.",
+    "ingredients": [
+      "1 dinde de 4 kg",
+      "500g de marrons cuits",
+      "1kg de pommes de terre",
+      "50g de beurre",
+      "2 oignons",
+      "2 gousses d'ail",
+      "1 bouquet garni",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Épluchez les pommes de terre et faites-les cuire pour la purée.",
+      "Placez la dinde dans un plat à rôtir, salez, poivrez et badigeonnez de beurre.",
+      "Ajoutez les oignons émincés, l'ail et le bouquet garni autour de la dinde.",
+      "Faites cuire la dinde au four pendant 2h30, en ajoutant les marrons 30 minutes avant la fin.",
+      "Préparez la purée de pommes de terre avec du beurre et servez avec la dinde et les marrons."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chapon rôti",
+    "description": "Chapon rôti, farci et servi avec des légumes de saison.",
+    "ingredients": [
+      "1 chapon de 3 kg",
+      "200g de farce (viande hachée, herbes, échalotes)",
+      "4 carottes",
+      "4 pommes de terre",
+      "1 céleri",
+      "50g de beurre",
+      "1 verre de vin blanc",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 200°C.",
+      "Farcissez le chapon avec la farce préparée et fermez avec de la ficelle.",
+      "Disposez les légumes coupés autour du chapon dans un grand plat.",
+      "Arrosez de vin blanc, salez, poivrez et ajoutez des noix de beurre.",
+      "Enfournez pendant 2h, arrosez régulièrement avec le jus de cuisson.",
+      "Servez chaud avec les légumes rôtis."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Saumon en croûte",
+    "description": "Saumon en croûte de pâte feuilletée avec une touche d'herbes aromatiques.",
+    "ingredients": [
+      "1 filet de saumon de 800g",
+      "1 pâte feuilletée",
+      "1 bouquet d'aneth",
+      "1 citron",
+      "1 jaune d'œuf",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Étalez la pâte feuilletée et placez le saumon au centre.",
+      "Assaisonnez avec du sel, du poivre, du jus de citron et parsemez d'aneth.",
+      "Refermez la pâte feuilletée autour du saumon et badigeonnez de jaune d'œuf.",
+      "Enfournez pendant 25-30 minutes, jusqu'à ce que la pâte soit dorée.",
+      "Servez avec une salade verte ou des légumes vapeur."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gratin dauphinois",
+    "description": "Gratin crémeux de pommes de terre avec du fromage râpé.",
+    "ingredients": [
+      "1 kg de pommes de terre",
+      "500ml de crème fraîche",
+      "100g de gruyère râpé",
+      "2 gousses d'ail",
+      "30g de beurre",
+      "Sel, poivre, muscade"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Épluchez et coupez les pommes de terre en fines rondelles.",
+      "Frottez un plat à gratin avec l'ail puis beurrez-le.",
+      "Disposez les pommes de terre en couches, assaisonnez de sel, poivre et muscade.",
+      "Versez la crème fraîche sur les pommes de terre et parsemez de fromage râpé.",
+      "Enfournez pendant 1h à 1h15, jusqu'à ce que le gratin soit doré et crémeux."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Côtelettes d'agneau",
+    "description": "Côtelettes d'agneau grillées, accompagnées de légumes rôtis et d'une sauce au romarin.",
+    "ingredients": [
+      "8 côtelettes d'agneau",
+      "4 carottes",
+      "2 courgettes",
+      "2 cuillères à soupe d'huile d'olive",
+      "1 branche de romarin",
+      "1 gousse d'ail",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 200°C.",
+      "Disposez les légumes coupés sur une plaque, arrosez d'huile d'olive, salez et poivrez.",
+      "Faites griller les côtelettes d'agneau dans une poêle chaude avec l'ail et le romarin.",
+      "Enfournez les légumes pendant 20 minutes jusqu'à ce qu'ils soient tendres.",
+      "Servez les côtelettes avec les légumes rôtis et une sauce au jus de cuisson."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Rôti de bœuf",
+    "description": "Rôti de bœuf cuit lentement au four, servi avec une sauce au vin rouge.",
+    "ingredients": [
+      "1 rôti de bœuf de 1,5 kg",
+      "3 échalotes",
+      "1 verre de vin rouge",
+      "1 branche de thym",
+      "1 feuille de laurier",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Placez le rôti dans un plat, salez, poivrez et ajoutez le thym et le laurier.",
+      "Enfournez pendant 1h en arrosant régulièrement avec le jus.",
+      "Dans une casserole, faites revenir les échalotes, déglacez avec le vin rouge et réduisez.",
+      "Servez le rôti tranché avec la sauce au vin rouge."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Cuisse de canard confite",
+    "description": "Canard confit, accompagné de pommes de terre sarladaises et de légumes verts.",
+    "ingredients": [
+      "4 cuisses de canard confites",
+      "1 kg de pommes de terre",
+      "2 gousses d'ail",
+      "2 cuillères à soupe de graisse de canard",
+      "Persil frais",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Faites chauffer les cuisses de canard au four à 180°C pendant 25 minutes.",
+      "Épluchez et coupez les pommes de terre en rondelles, faites-les revenir dans la graisse de canard avec l'ail.",
+      "Parsemez de persil frais et assaisonnez.",
+      "Servez les cuisses de canard avec les pommes de terre sarladaises."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Curry de légumes",
+    "description": "Mélange de légumes dans une sauce curry épicée, servi avec du riz basmati.",
+    "ingredients": [
+      "1 aubergine",
+      "2 courgettes",
+      "1 poivron rouge",
+      "1 oignon",
+      "2 cuillères à soupe de pâte de curry",
+      "400ml de lait de coco",
+      "2 cuillères à soupe d'huile végétale",
+      "Coriandre fraîche",
+      "Riz basmati"
+    ],
+    "steps": [
+      "Faites revenir l'oignon émincé dans l'huile jusqu'à ce qu'il soit translucide.",
+      "Ajoutez les légumes coupés en dés et la pâte de curry, laissez cuire 5 minutes.",
+      "Versez le lait de coco, laissez mijoter 20 minutes.",
+      "Servez chaud avec du riz basmati et de la coriandre fraîche."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Lasagnes végétariennes",
+    "description": "Lasagnes avec des légumes de saison, sauce tomate, béchamel et fromage fondant.",
+    "ingredients": [
+      "12 feuilles de lasagnes",
+      "1 courgette",
+      "1 poivron jaune",
+      "1 carotte",
+      "500ml de sauce tomate",
+      "500ml de béchamel",
+      "200g de fromage râpé",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Coupez les légumes en petits dés et faites-les revenir dans une poêle.",
+      "Dans un plat, alternez couches de lasagnes, légumes, sauce tomate, béchamel et fromage.",
+      "Répétez jusqu'à épuisement des ingrédients, terminez par une couche de fromage râpé.",
+      "Enfournez pendant 40 minutes, jusqu'à ce que les lasagnes soient dorées."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tourte de Noël",
+    "description": "Tourte de viande hachée, champignons et herbes fines dans une pâte dorée.",
+    "ingredients": [
+      "500g de viande hachée",
+      "200g de champignons",
+      "1 oignon",
+      "1 pâte brisée",
+      "1 jaune d'œuf",
+      "Herbes de Provence",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 180°C.",
+      "Faites revenir l'oignon, les champignons et la viande hachée, assaisonnez.",
+      "Étalez la pâte brisée dans un moule, ajoutez la farce.",
+      "Couvrez avec une autre pâte et soudez les bords.",
+      "Badigeonnez de jaune d'œuf et enfournez pendant 40 minutes.",
+      "Servez chaud avec une salade verte."
+    ]
+  },
+  {
+      "id": 11,
+      "name": "Coquilles Saint-Jacques gratinées",
+      "description": "Coquilles Saint-Jacques gratinées au four avec une sauce crémeuse au vin blanc.",
+      "ingredients": [
+        "12 coquilles Saint-Jacques",
+        "200ml de crème fraîche",
+        "1 verre de vin blanc",
+        "50g de parmesan râpé",
+        "1 échalote",
+        "Persil frais",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Préchauffez le four à 200°C.",
+        "Faites revenir l'échalote dans une poêle avec du beurre, ajoutez le vin blanc et laissez réduire.",
+        "Incorporez la crème fraîche, assaisonnez et laissez mijoter quelques minutes.",
+        "Placez les coquilles Saint-Jacques dans un plat, nappez de sauce et parsemez de parmesan.",
+        "Enfournez pendant 10 minutes jusqu'à ce que le dessus soit doré.",
+        "Servez avec du persil frais haché."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Filet mignon en croûte",
+      "description": "Filet mignon enrobé de pâte feuilletée, farci aux champignons et foie gras.",
+      "ingredients": [
+        "1 filet mignon de porc",
+        "1 pâte feuilletée",
+        "200g de champignons",
+        "100g de foie gras",
+        "1 jaune d'œuf",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Préchauffez le four à 180°C.",
+        "Faites revenir les champignons émincés dans une poêle.",
+        "Ouvrez le filet mignon, farcissez-le de champignons et de foie gras, refermez.",
+        "Enveloppez le filet mignon dans la pâte feuilletée, badigeonnez de jaune d'œuf.",
+        "Enfournez pendant 30 minutes, jusqu'à ce que la pâte soit bien dorée.",
+        "Servez chaud, accompagné de légumes vapeur."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Terrine de foie gras",
+      "description": "Foie gras maison mariné et cuit au bain-marie, servi avec du pain brioché.",
+      "ingredients": [
+        "500g de foie gras cru",
+        "1 cuillère à soupe de cognac",
+        "Sel, poivre",
+        "4 épices",
+        "Pain brioché"
+      ],
+      "steps": [
+        "Préchauffez le four à 120°C.",
+        "Dénervez le foie gras, assaisonnez avec du sel, du poivre et des 4 épices.",
+        "Arrosez de cognac et laissez mariner 1 heure au réfrigérateur.",
+        "Placez le foie gras dans une terrine, couvrez et faites cuire au bain-marie pendant 45 minutes.",
+        "Laissez refroidir au réfrigérateur pendant 24 heures avant de servir avec du pain brioché."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Risotto aux champignons",
+      "description": "Risotto crémeux aux champignons de saison et parmesan.",
+      "ingredients": [
+        "300g de riz Arborio",
+        "200g de champignons",
+        "1 oignon",
+        "1 litre de bouillon de volaille",
+        "100ml de vin blanc",
+        "50g de parmesan",
+        "2 cuillères à soupe d'huile d'olive",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Faites revenir l'oignon émincé dans l'huile d'olive.",
+        "Ajoutez le riz et faites-le nacrer, versez le vin blanc et laissez évaporer.",
+        "Incorporez les champignons coupés, puis ajoutez le bouillon progressivement en remuant.",
+        "Une fois le riz cuit, ajoutez le parmesan, assaisonnez et servez chaud."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Magret de canard sauce aux figues",
+      "description": "Magret de canard rôti, accompagné d'une sauce sucrée aux figues.",
+      "ingredients": [
+        "2 magrets de canard",
+        "6 figues fraîches",
+        "1 cuillère à soupe de miel",
+        "1 verre de vin rouge",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Préchauffez le four à 180°C.",
+        "Quadrillez la peau des magrets et faites-les cuire côté peau dans une poêle chaude.",
+        "Placez les magrets au four pendant 10 minutes.",
+        "Dans la poêle, ajoutez les figues coupées en deux, le miel et le vin rouge, laissez réduire.",
+        "Servez les magrets tranchés avec la sauce aux figues."
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Tarte aux poireaux",
+      "description": "Tarte salée aux poireaux, fromage et lardons fumés.",
+      "ingredients": [
+        "1 pâte brisée",
+        "3 poireaux",
+        "150g de lardons",
+        "200ml de crème fraîche",
+        "2 œufs",
+        "100g de gruyère râpé",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Préchauffez le four à 180°C.",
+        "Coupez les poireaux en rondelles et faites-les revenir avec les lardons.",
+        "Battez les œufs avec la crème fraîche, ajoutez les poireaux et lardons.",
+        "Étalez la pâte brisée dans un moule, versez la préparation et parsemez de gruyère.",
+        "Enfournez pendant 35 minutes, jusqu'à ce que la tarte soit dorée."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Poulet basquaise",
+      "description": "Poulet mijoté dans une sauce aux tomates, poivrons et piment d'Espelette.",
+      "ingredients": [
+        "1 poulet découpé",
+        "1 poivron rouge",
+        "1 poivron vert",
+        "4 tomates",
+        "1 oignon",
+        "1 gousse d'ail",
+        "1 cuillère à café de piment d'Espelette",
+        "Huile d'olive",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Faites revenir le poulet dans une cocotte avec de l'huile d'olive.",
+        "Ajoutez l'oignon, l'ail, les poivrons en lamelles et les tomates coupées.",
+        "Assaisonnez avec le piment d'Espelette, salez, poivrez et laissez mijoter 45 minutes.",
+        "Servez chaud avec du riz ou des pommes de terre."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Filet de bar au four",
+      "description": "Filet de bar cuit au four avec des herbes aromatiques et du citron.",
+      "ingredients": [
+        "2 filets de bar",
+        "1 citron",
+        "1 bouquet de thym",
+        "2 cuillères à soupe d'huile d'olive",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Préchauffez le four à 180°C.",
+        "Placez les filets de bar dans un plat, arrosez d'huile d'olive et de jus de citron.",
+        "Ajoutez le thym, salez et poivrez.",
+        "Enfournez pendant 20 minutes, jusqu'à ce que le poisson soit tendre.",
+        "Servez avec des légumes vapeur."
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Parmentier de canard",
+      "description": "Hachis parmentier revisité avec du canard confit et une purée crémeuse.",
+      "ingredients": [
+        "4 cuisses de canard confites",
+        "1 kg de pommes de terre",
+        "200ml de lait",
+        "50g de beurre",
+        "100g de fromage râpé",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Préchauffez le four à 200°C.",
+        "Effilochez la viande des cuisses de canard.",
+        "Préparez la purée avec les pommes de terre, le lait et le beurre.",
+        "Dans un plat, disposez une couche de canard puis une couche de purée.",
+        "Parsemez de fromage râpé et enfournez 20 minutes jusqu'à ce que ce soit doré."
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Blanquette de veau",
+      "description": "Blanquette de veau classique avec une sauce crémeuse et des légumes.",
+      "ingredients": [
+        "1 kg de veau (épaule ou collier)",
+        "2 carottes",
+        "1 oignon",
+        "1 branche de céleri",
+        "200ml de crème fraîche",
+        "1 jaune d'œuf",
+        "1 citron",
+        "Bouquet garni",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Faites revenir la viande dans une cocotte avec un peu d'huile.",
+        "Ajoutez les carottes, l'oignon, le céleri et le bouquet garni.",
+        "Couvrez d'eau et laissez mijoter 1h30.",
+        "Mélangez la crème, le jaune d'œuf et le jus de citron, incorporez à la blanquette.",
+        "Servez avec du riz blanc."
+      ]
+    }
+  
+]

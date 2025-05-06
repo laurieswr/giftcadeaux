@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "name": "Foie gras",
+    "description": "Un délicieux foie gras de canard accompagné de toasts.",
+    "ingredients": [
+      "1 foie gras de canard cru (500g)",
+      "5g de sel",
+      "2g de poivre",
+      "1 cuillère à soupe d'Armagnac",
+      "Tranches de pain grillé"
+    ],
+    "steps": [
+      "Préchauffez le four à 100°C.",
+      "Déveinez le foie gras et assaisonnez-le avec le sel, le poivre et l'Armagnac.",
+      "Placez le foie gras dans une terrine et couvrez.",
+      "Enfournez au bain-marie pendant 45 minutes.",
+      "Laissez refroidir puis réfrigérez au moins 24 heures avant de servir.",
+      "Servez avec des tranches de pain grillé."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Saumon fumé",
+    "description": "Saumon fumé accompagné de crème fraîche et de citron.",
+    "ingredients": [
+      "200g de saumon fumé",
+      "1 citron",
+      "100g de crème fraîche",
+      "Quelques brins d'aneth",
+      "Poivre noir"
+    ],
+    "steps": [
+      "Disposez les tranches de saumon fumé sur une assiette.",
+      "Pressez le citron et arrosez le saumon avec le jus.",
+      "Ajoutez une cuillère de crème fraîche sur chaque tranche.",
+      "Parsemez d'aneth et poivrez légèrement.",
+      "Servez frais."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Huîtres",
+    "description": "Huîtres fraîches servies avec du vinaigre mignonette.",
+    "ingredients": [
+      "12 huîtres fraîches",
+      "2 cuillères à soupe de vinaigre de vin rouge",
+      "1 échalote finement hachée",
+      "1 pincée de poivre"
+    ],
+    "steps": [
+      "Ouvrez les huîtres avec précaution et disposez-les sur un lit de glace pilée.",
+      "Préparez le vinaigre mignonette en mélangeant le vinaigre, l'échalote et le poivre.",
+      "Servez les huîtres avec une petite cuillère de vinaigre mignonette sur chaque huître."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Velouté de potimarron",
+    "description": "Soupe crémeuse à base de potimarron et de crème fraîche.",
+    "ingredients": [
+      "1 potimarron",
+      "1 oignon",
+      "1 litre de bouillon de légumes",
+      "20cl de crème fraîche",
+      "Sel et poivre",
+      "1 cuillère à soupe d'huile d'olive"
+    ],
+    "steps": [
+      "Épluchez et coupez le potimarron en morceaux.",
+      "Émincez l'oignon et faites-le revenir dans l'huile d'olive.",
+      "Ajoutez le potimarron et le bouillon, laissez cuire 20 minutes.",
+      "Mixez la soupe et ajoutez la crème fraîche.",
+      "Assaisonnez avec sel et poivre, servez chaud."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rillettes de porc",
+    "description": "Rillettes maison servies avec des cornichons et des tranches de pain de campagne.",
+    "ingredients": [
+      "500g d'échine de porc",
+      "100g de graisse de canard",
+      "1 oignon",
+      "2 gousses d'ail",
+      "1 feuille de laurier",
+      "Sel, poivre",
+      "Cornichons",
+      "Pain de campagne"
+    ],
+    "steps": [
+      "Coupez la viande en morceaux et faites-la cuire dans la graisse de canard avec l'oignon et l'ail.",
+      "Ajoutez la feuille de laurier, le sel et le poivre.",
+      "Laissez mijoter à feu doux pendant 3 heures.",
+      "Effilochez la viande, mélangez et laissez refroidir.",
+      "Servez avec des cornichons et du pain de campagne."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tartare de saumon",
+    "description": "Saumon frais haché, assaisonné avec de l'huile d'olive, du citron et des herbes.",
+    "ingredients": [
+      "200g de saumon frais",
+      "1 cuillère à soupe d'huile d'olive",
+      "1 citron",
+      "Quelques brins de ciboulette",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Coupez le saumon en petits dés.",
+      "Assaisonnez avec l'huile d'olive, le jus de citron, le sel et le poivre.",
+      "Ajoutez la ciboulette finement hachée.",
+      "Mélangez délicatement et servez frais."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Soupe de Noël",
+    "description": "Soupe chaude de légumes et de dinde, parfaite pour se réchauffer.",
+    "ingredients": [
+      "200g de dinde coupée en morceaux",
+      "2 carottes",
+      "1 poireau",
+      "2 pommes de terre",
+      "1 litre de bouillon de volaille",
+      "Sel, poivre",
+      "1 bouquet garni"
+    ],
+    "steps": [
+      "Épluchez et coupez les légumes en morceaux.",
+      "Faites revenir la dinde dans une grande casserole.",
+      "Ajoutez les légumes et le bouillon de volaille.",
+      "Laissez cuire 30 minutes avec le bouquet garni.",
+      "Assaisonnez avec sel et poivre, servez chaud."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Salade de chèvre chaud",
+    "description": "Salade verte garnie de chèvre chaud, noix et vinaigrette au miel.",
+    "ingredients": [
+      "Salade verte",
+      "4 tranches de fromage de chèvre",
+      "1 cuillère à soupe de miel",
+      "1 poignée de noix",
+      "Huile d'olive",
+      "Vinaigre balsamique",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Disposez la salade verte dans un saladier.",
+      "Faites dorer les tranches de chèvre au four avec un filet de miel.",
+      "Ajoutez les tranches de chèvre chaud sur la salade.",
+      "Parsemez de noix et assaisonnez avec une vinaigrette d'huile d'olive et vinaigre balsamique."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Tartiflette",
+    "description": "Plat savoyard à base de pommes de terre, fromage reblochon, lardons et oignons.",
+    "ingredients": [
+      "1kg de pommes de terre",
+      "200g de lardons",
+      "1 oignon",
+      "1 reblochon",
+      "20cl de crème fraîche",
+      "Sel, poivre"
+    ],
+    "steps": [
+      "Préchauffez le four à 200°C.",
+      "Épluchez et coupez les pommes de terre en rondelles, faites-les cuire à l'eau.",
+      "Faites revenir les lardons et l'oignon émincé dans une poêle.",
+      "Dans un plat à gratin, disposez les pommes de terre, les lardons et la crème fraîche.",
+      "Ajoutez le reblochon coupé en deux sur le dessus, enfournez 20 minutes."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Châtaignes grillées",
+    "description": "Châtaignes grillées et servies avec un peu de sel et de beurre.",
+    "ingredients": [
+      "500g de châtaignes",
+      "Sel",
+      "Beurre"
+    ],
+    "steps": [
+      "Préchauffez le four à 220°C.",
+      "Incisez les châtaignes avec un couteau.",
+      "Disposez-les sur une plaque et enfournez 25 minutes en les remuant à mi-cuisson.",
+      "Une fois grillées, épluchez-les et servez avec du sel et du beurre."
+    ]
+  },
+    {
+      "id": 11,
+      "name": "Terrine de Saumon",
+      "description": "Terrine froide au saumon, à la crème et aux herbes.",
+      "ingredients": [
+        "500g de saumon frais",
+        "200g de fromage à la crème",
+        "1 échalote",
+        "Jus de 1 citron",
+        "Aneth",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Mixez le saumon avec le fromage à la crème, l'échalote et le jus de citron.",
+        "Ajoutez l'aneth, salez et poivrez.",
+        "Versez dans une terrine et laissez reposer au réfrigérateur pendant au moins 4 heures.",
+        "Servez frais avec du pain de campagne."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Verrine de Foie Gras et Chutney de Figues",
+      "description": "Petites verrines avec du foie gras et un chutney de figues pour un goût sucré-salé.",
+      "ingredients": [
+        "150g de foie gras",
+        "100g de chutney de figues",
+        "Quelques tranches de pain d'épices",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Découpez le foie gras en cubes et disposez-les dans des verrines.",
+        "Ajoutez le chutney de figues par-dessus.",
+        "Coupez le pain d'épices en petits morceaux et ajoutez-les pour le croquant.",
+        "Salez et poivrez légèrement, puis réfrigérez avant de servir."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Roulé de Saumon Fumé et Fromage Frais",
+      "description": "Roulés de saumon fumé avec un mélange de fromage frais et d'herbes.",
+      "ingredients": [
+        "200g de saumon fumé",
+        "100g de fromage frais",
+        "1 cuillère à soupe de ciboulette",
+        "Jus de citron",
+        "Poivre"
+      ],
+      "steps": [
+        "Mélangez le fromage frais, la ciboulette et le jus de citron.",
+        "Étalez le mélange sur chaque tranche de saumon fumé.",
+        "Roulez les tranches de saumon et réfrigérez avant de servir.",
+        "Coupez en tranches et servez frais."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Crème de Potiron aux Châtaignes",
+      "description": "Soupe crémeuse de potiron avec des châtaignes rôties.",
+      "ingredients": [
+        "1 potiron",
+        "200g de châtaignes",
+        "1 oignon",
+        "20cl de crème fraîche",
+        "Sel, poivre",
+        "Bouillon de légumes"
+      ],
+      "steps": [
+        "Épluchez et coupez le potiron en morceaux.",
+        "Faites cuire l'oignon dans une casserole avec un peu d'huile.",
+        "Ajoutez le potiron et le bouillon, laissez cuire pendant 20 minutes.",
+        "Ajoutez les châtaignes et mixez le tout.",
+        "Incorporez la crème fraîche, assaisonnez et servez chaud."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cassolette de Saint-Jacques au Safran",
+      "description": "Saint-Jacques en sauce crémeuse au safran, servies en cassolette.",
+      "ingredients": [
+        "12 noix de Saint-Jacques",
+        "20cl de crème fraîche",
+        "1 pincée de safran",
+        "Beurre",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Faites fondre le beurre dans une poêle et faites revenir les noix de Saint-Jacques.",
+        "Ajoutez la crème et le safran, laissez mijoter.",
+        "Assaisonnez avec du sel et du poivre, puis servez chaud dans des cassolettes."
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Feuilleté au Chèvre et Miel",
+      "description": "Pâte feuilletée avec du fromage de chèvre et du miel, servi chaud.",
+      "ingredients": [
+        "4 tranches de fromage de chèvre",
+        "1 pâte feuilletée",
+        "1 cuillère à soupe de miel",
+        "Quelques noix"
+      ],
+      "steps": [
+        "Préchauffez le four à 180°C.",
+        "Coupez la pâte feuilletée en carrés et déposez une tranche de fromage de chèvre dessus.",
+        "Arrosez de miel et parsemez de noix.",
+        "Enfournez pendant 15 minutes ou jusqu'à ce que la pâte soit dorée."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Œufs Cocotte au Foie Gras",
+      "description": "Œufs cuits en cocotte avec du foie gras et de la crème.",
+      "ingredients": [
+        "4 œufs",
+        "100g de foie gras",
+        "20cl de crème fraîche",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Préchauffez le four à 180°C.",
+        "Disposez une cuillère de foie gras dans chaque ramequin.",
+        "Cassez un œuf dessus, ajoutez un peu de crème et assaisonnez.",
+        "Enfournez pendant 12 minutes et servez immédiatement."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Blinis Maison avec Crème Fraîche et Œufs de Poisson",
+      "description": "Blinis maison accompagnés de crème fraîche et d'œufs de poisson.",
+      "ingredients": [
+        "150g de farine",
+        "1 œuf",
+        "20cl de lait",
+        "Crème fraîche",
+        "Œufs de poisson"
+      ],
+      "steps": [
+        "Préparez la pâte à blinis en mélangeant la farine, l'œuf, le lait et un peu de levure.",
+        "Faites cuire des petites galettes dans une poêle chaude.",
+        "Servez avec de la crème fraîche et des œufs de poisson."
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Tartare de Saint-Jacques",
+      "description": "Tartare frais de Saint-Jacques, assaisonné au citron et aux herbes.",
+      "ingredients": [
+        "8 noix de Saint-Jacques",
+        "1 citron",
+        "Quelques brins de ciboulette",
+        "Huile d'olive",
+        "Sel, poivre"
+      ],
+      "steps": [
+        "Coupez les noix de Saint-Jacques en petits dés.",
+        "Arrosez de jus de citron et d'huile d'olive.",
+        "Ajoutez la ciboulette ciselée, salez et poivrez.",
+        "Mélangez délicatement et servez frais."
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Soupe de Champagne",
+      "description": "Soupe festive au champagne, agrémentée de fruits frais.",
+      "ingredients": [
+        "1 bouteille de champagne",
+        "Fruits frais de saison (framboises, agrumes)",
+        "Sucre",
+        "Menthe"
+      ],
+      "steps": [
+        "Versez le champagne dans un grand bol.",
+        "Ajoutez les fruits frais et un peu de sucre selon votre goût.",
+        "Laissez reposer au réfrigérateur avant de servir, garnissez de menthe."
+      ]
+    }
+  
+]

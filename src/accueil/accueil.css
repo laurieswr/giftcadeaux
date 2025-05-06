@@ -1,0 +1,19 @@
+
+
+/* Styles pour .accueilText */
+.accueilText {
+    background-color: rgba(255, 255, 255, 0.7);
+    text-align: center; /* Centre le texte si plusieurs lignes */
+    padding: 20px; /* Ajoute du padding pour un meilleur rendu */
+    margin: 0 auto; /* Centre horizontalement si la largeur est définie */
+    max-width: 600px; /* Limite la largeur pour un meilleur affichage sur grands écrans */
+    border-radius: 10px; /* Ajoute des coins arrondis */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Ajoute une légère ombre */
+}
+
+/* Styles pour .compterebours */
+.compterebours {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Ajoute un espace au-dessus de .compterebours */
+}

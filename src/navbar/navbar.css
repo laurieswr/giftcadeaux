@@ -1,0 +1,89 @@
+/* Styles par défaut pour mobile */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  padding-bottom: 8vh; /* Espace en bas pour la navbar mobile */
+}
+
+.navbar {
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: grey;
+  color: #fff;
+  
+  /* Fixe la navbar en bas de l'écran sur mobile */
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  right: 0;
+}
+
+.navbar-icon {
+  flex: 1; /* Chaque icône prend une partie égale de l'espace disponible */
+  color: white;
+  cursor: pointer;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.navbar-icon img {
+  width: 50px; /* Taille des icônes pour mobile */
+}
+
+.navbar-icon.active {
+  color: #007bff; /* Bleu pour l'élément actif */
+  border-top: 2px solid #007bff; /* Soulignement en haut pour l'élément actif */
+}
+
+.navbar-icon:hover {
+  color: #66b2ff; /* Changement de couleur au survol */
+}
+
+.Home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Media query pour desktop */
+@media (min-width: 1024px) {
+  body {
+    padding-bottom: 0; /* Retirer le padding-bottom pour desktop */
+  }
+
+  .navbar {
+    position: static; /* Annule la position fixe pour desktop */
+    bottom: initial; /* Retirer la position en bas pour desktop */
+    height: 70px; /* Augmentation de la hauteur sur desktop */
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px; /* Ajoute du padding latéral pour un espacement */
+    width: 92%;
+  }
+
+  .navbar-icon {
+    flex: none; /* Ajuste la flexibilité pour desktop */
+    margin: 0 15px; /* Ajoute un peu d'espace entre les icônes */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .navbar-icon img {
+    width: 60px; /* Augmentation de la taille des icônes sur desktop */
+  }
+
+  .navbar-icon div {
+    margin-top: 5px; /* Ajout d'un espace entre l'icône et le texte */
+    font-size: 16px; /* Taille de police plus grande pour le texte */
+  }
+}
