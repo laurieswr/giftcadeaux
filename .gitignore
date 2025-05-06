@@ -1,0 +1,8 @@
+desktop.ini
+.vite
+node_modules
+eslint.config.js
+.env
+vite.config.js
+
+ios
