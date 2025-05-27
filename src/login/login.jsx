@@ -22,8 +22,7 @@ function AuthComponent() {
     setMessage('');
   };
 
-  const handleRegister = async (e) => {
-    e.preventDefault();
+  const handleRegister = async () => {
     setIsLoading(true);
 
     if (!name || !email || !password || !confirmPassword) {
@@ -71,8 +70,7 @@ function AuthComponent() {
     }, 1000);
   };
 
-  const handleLogin = async (e) => {
-    e.preventDefault();
+  const handleLogin = async () => {
     setIsLoading(true);
 
     if (!email || !password) {
@@ -249,7 +247,7 @@ function AuthComponent() {
         )}
 
         <button
-          type="submit"
+          onClick={isLogin ? handleLogin : handleRegister}
           disabled={isLoading}
           style={{ 
             width: '100%', 
