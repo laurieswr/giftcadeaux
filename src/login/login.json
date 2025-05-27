@@ -1,4 +1,212 @@
 {
-    "email": "newuser@example.com",
-    "password": "newpassword"
-}
+    "utilisateur": {
+      "nom": "Dupont",
+      "prenom": "Marie",
+      "email": "marie.dupont@example.com",
+      "motDePasse": "monMotDePasse123",
+      "dateAnniversaire": "1990-05-15"
+    },
+    "contacts": [
+      {
+        "id": 1,
+        "nom": "Martin",
+        "prenom": "Jean",
+        "relation": "ami",
+        "dateAnniversaire": "1988-12-03",
+        "email": "jean.martin@example.com",
+        "telephone": "06.12.34.56.78"
+      },
+      {
+        "id": 2,
+        "nom": "Dubois",
+        "prenom": "Sophie",
+        "relation": "sœur",
+        "dateAnniversaire": "1992-08-22",
+        "email": "sophie.dubois@example.com",
+        "telephone": "06.98.76.54.32"
+      },
+      {
+        "id": 3,
+        "nom": "Leroy",
+        "prenom": "Pierre",
+        "relation": "père",
+        "dateAnniversaire": "1965-03-10",
+        "email": "pierre.leroy@example.com",
+        "telephone": "06.45.67.89.12"
+      },
+      {
+        "id": 4,
+        "nom": "Bernard",
+        "prenom": "Claire",
+        "relation": "collègue",
+        "dateAnniversaire": "1987-11-28",
+        "email": "claire.bernard@example.com",
+        "telephone": "06.23.45.67.89"
+      }
+    ],
+    "cadeaux": [
+      {
+        "id": 1,
+        "destinataire": {
+          "contactId": 1,
+          "nom": "Jean Martin"
+        },
+        "occasion": "anniversaire",
+        "dateOccasion": "2024-12-03",
+        "ideesCadeaux": [
+          {
+            "nom": "Livre de cuisine",
+            "prix": 25.99,
+            "url": "https://example.com/livre-cuisine",
+            "statut": "idée",
+            "notes": "Il adore cuisiner des plats italiens"
+          },
+          {
+            "nom": "Coffret dégustation whisky",
+            "prix": 89.99,
+            "url": "https://example.com/whisky-coffret",
+            "statut": "acheté",
+            "dateAchat": "2024-11-15",
+            "notes": "Acheté chez Carrefour, reçu en magasin"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "destinataire": {
+          "contactId": 2,
+          "nom": "Sophie Dubois"
+        },
+        "occasion": "noel",
+        "dateOccasion": "2024-12-25",
+        "ideesCadeaux": [
+          {
+            "nom": "Écharpe en laine",
+            "prix": 45.00,
+            "url": "https://example.com/echarpe-laine",
+            "statut": "wishlist",
+            "notes": "Elle préfère les couleurs neutres"
+          },
+          {
+            "nom": "Parfum Chanel",
+            "prix": 120.00,
+            "url": "https://example.com/parfum-chanel",
+            "statut": "idée",
+            "notes": "Vérifier si elle n'en a pas déjà"
+          },
+          {
+            "nom": "Bijou personnalisé",
+            "prix": 75.50,
+            "url": "https://example.com/bijou-personnalise",
+            "statut": "commandé",
+            "dateCommande": "2024-11-20",
+            "notes": "Gravure avec son initiale, livraison prévue le 15/12"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "destinataire": {
+          "contactId": 3,
+          "nom": "Pierre Leroy"
+        },
+        "occasion": "fete_des_peres",
+        "dateOccasion": "2025-06-15",
+        "ideesCadeaux": [
+          {
+            "nom": "Outils de jardinage",
+            "prix": 65.00,
+            "url": "https://example.com/outils-jardinage",
+            "statut": "idée",
+            "notes": "Il a commencé un potager cette année"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "destinataire": {
+          "contactId": 4,
+          "nom": "Claire Bernard"
+        },
+        "occasion": "noel",
+        "dateOccasion": "2024-12-25",
+        "ideesCadeaux": [
+          {
+            "nom": "Mug personnalisé bureau",
+            "prix": 15.99,
+            "url": "https://example.com/mug-bureau",
+            "statut": "acheté",
+            "dateAchat": "2024-11-22",
+            "notes": "Cadeau secret Santa au bureau - limite 20€"
+          }
+        ]
+      }
+    ],
+    "occasions": [
+      {
+        "nom": "noel",
+        "label": "Noël",
+        "dateFixe": "12-25",
+        "couleur": "#c41e3a"
+      },
+      {
+        "nom": "anniversaire",
+        "label": "Anniversaire",
+        "dateFixe": null,
+        "couleur": "#ff6b6b"
+      },
+      {
+        "nom": "fete_des_meres",
+        "label": "Fête des mères",
+        "dateFixe": null,
+        "couleur": "#ff69b4",
+        "notes": "Dernier dimanche de mai"
+      },
+      {
+        "nom": "fete_des_peres",
+        "label": "Fête des pères",
+        "dateFixe": null,
+        "couleur": "#4169e1",
+        "notes": "Troisième dimanche de juin"
+      },
+      {
+        "nom": "saint_valentin",
+        "label": "Saint-Valentin",
+        "dateFixe": "02-14",
+        "couleur": "#ff1493"
+      }
+    ],
+    "rappels": [
+      {
+        "id": 1,
+        "contactId": 1,
+        "occasion": "anniversaire",
+        "dateRappel": "2024-11-28",
+        "message": "Anniversaire de Jean dans 5 jours",
+        "statut": "actif"
+      },
+      {
+        "id": 2,
+        "contactId": 2,
+        "occasion": "noel",
+        "dateRappel": "2024-12-15",
+        "message": "Noël dans 10 jours - Vérifier livraison bijou Sophie",
+        "statut": "actif"
+      }
+    ],
+    "budget": {
+      "budgetAnnuel": 500.00,
+      "budgetNoel": 300.00,
+      "depenseAnnee": 256.48,
+      "depenseNoel": 195.50,
+      "devise": "EUR"
+    },
+    "preferences": {
+      "rappelsActives": true,
+      "delaiRappelDefaut": 7,
+      "uniteDelai": "jours",
+      "notificationsEmail": true,
+      "theme": "clair",
+      "langue": "fr"
+    }
+  }
