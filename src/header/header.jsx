@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <main className='main'>
       <div className="header">
-        <h1 className="title">Christmas Planner🎄</h1>
+        <h1 className="title">Cadeaux pour la famille et les ami(e)s</h1>
       </div>
     </main>
   );
