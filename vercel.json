@@ -1,38 +1,5 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "pages/**/*.{js,jsx,ts,tsx}",
-      "use": "@vercel/next"
-    },
-    {
-      "src": "api/**/*.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "/api/$1"
-    },
-    {
-      "src": "/old-route",
-      "status": 301,
-      "headers": {
-        "Location": "/new-route"
-      }
-    }
-  ],
-  "env": {
-    "API_KEY": "your_api_key_here",
-    "ANOTHER_ENV_VAR": "value"
-  },
-  "rewrites": [
-    {
-      "source": "/about",
-      "destination": "/about.html"
-    }
-  ],
   "redirects": [
     {
       "source": "/old-path",
