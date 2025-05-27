@@ -24,9 +24,6 @@ const Accueil = () => {
 
       <div className='accueilText'>
         <p>
-          Une ambiance sonore ? Profitez de playlists musicales adaptées à chaque fête.
-        </p>
-        <p>
           Et en vous connectant, vous pourrez accéder à votre espace personnel pour gérer vos envies, vos idées de recettes, et bien plus encore !
         </p>
       </div>
