@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import HomeIcon from '../images/home.jpg';
 import CadeauxIcon from '../images/gift-box-icon-png-7.jpg';
-import './Navbar.css';
+import './navbar.css';
 import MenuNoel from '../menu/menu';
 import ImgNoel from '../images/menuChristmas.jpg'
 import { useNavigate } from 'react-router-dom';
